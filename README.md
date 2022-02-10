@@ -1,4 +1,6 @@
-# week7_assignment
+# PACKMAN BOUNCING
+
+
 In this project  where Pacman (the yellow circle with a mouth in the above figure) moves around in a page.
 In this project i have linked external javscript named pacmen.js.
 And also i have created images folder to import some pacman images for this project.
